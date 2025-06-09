@@ -1,0 +1,4 @@
+Average runtime of a ICP iteration:  0.015941553425763613
+Average runtime of a Cam iteration:  0.010026470682344612
+Number of rejections ICP:  1
+Number of rejections CAM:  5
