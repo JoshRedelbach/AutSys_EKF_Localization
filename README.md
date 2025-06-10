@@ -2,7 +2,7 @@
 
 This repository includes all code and data used within the project _Extended Kalman Filter for Localization of a TurtleBot3 Waffle Pi_ for the course _Autonomous Systems_.
 It was created by Carolina Realinho Pires, William Clarke and Joshua Redelbach.
-The project report about the algorithm as well as the results can be read **PUT REFERENCE HERE THEN**
+The project report about the algorithm as well as the results can be read in the [project report](/EKF_Localization_Report.pdf).
 
 ## Repo Structure
 
